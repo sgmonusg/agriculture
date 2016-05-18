@@ -4,7 +4,7 @@ Vagrant based VM to install the Java Development Environment on Vagrant to run t
 ###
 * RAM: 1Gb
 * IP: 192.168.200.200
-* Install Java JDk 1.8
+* Install Java JDK 1.8
 
 ### Pre requisite
 * Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
